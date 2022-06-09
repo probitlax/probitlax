@@ -3,8 +3,8 @@ Hello and welcome to:
 
 
 
-### 👀 Who I am
-My name is Amirhossein Farmad, a Java Developer with MSc. in Software Engineering. I've been involved across full-stack of various enterprise applications development during last decade with extensive experience working with Big Data. 
+### 👀 Who are we
+My name is Amirhossein Farmad, a Java Developer with MSc. in Software Engineering. I've been involved across full-stack of various enterprise applications development during last decade with extensive experience working with Big Data. Here I will share my experiences with all you technophile.
 
 
 ### ✨ Our story
