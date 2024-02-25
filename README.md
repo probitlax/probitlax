@@ -4,11 +4,11 @@ Hello and welcome to:
 
 
 ### 👀 Who am I?
-My name is Amirhossein Farmad, a Java Developer with MSc. in Software Engineering. I've been involved across full stack of various enterprise applications development during the last decade with extensive experience working with Big Data. Here I will share my experiences with all you technophiles.
+My name is Amirhossein Farmad, a Software Engineer, lifelong Learner, a lazy technical blogger 🐢. I've been involved across the full stack of various enterprise applications development during the last decade with extensive experience working with Big Data. Here I will share my experiences with all you technophiles.
 
 
 ### ✨ What's my story?
-We learn lessons from the hardships we face, new challenges, and failures we experience. Sharing those and teaching in a super easy way to others can be enjoyable for us. Here we will do our best to share these things and also contribute to developing a repo that could be useful.
+We learn lessons from the hardships we face, new challenges, and failures we experience. Here I will do my best to share some sample projects that might be useful for you 🤞.
 
 
 ### 📫 How to reach me?
